@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a990d678-3ee3-4859-9d71-21deb1e89a5b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\IntelliJ IDEA Community Edition 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1frHzCQDCrSVb4bhxZH4nsNfkdJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\flipdodge\IdeaProjects\jopabol'\src" />
+      <recent name="C:\Users\flipdodge\IdeaProjects\jopabol'" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="app.App" />
+      <module name="jopabol'" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hurt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="patch.Hurt" />
+      <module name="jopabol'" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hurt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hurt" />
+      <module name="jopabol'" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+        <item itemvalue="Application.Hurt" />
+        <item itemvalue="Application.hurt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a990d678-3ee3-4859-9d71-21deb1e89a5b" name="Default Changelist" comment="" />
+      <created>1596969558913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596969558913</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="113" key="#Project_Structure" timestamp="1596986393384">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="409" y="113" key="#Project_Structure/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596986393384" />
+    <state x="383" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596970586673">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="383" y="194" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596970586673" />
+    <state x="688" y="341" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598180928198">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state x="689" y="341" key="#com.intellij.fileTypes.FileTypeChooser/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596969710977" />
+    <state x="688" y="341" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598180928198" />
+    <state x="707" y="293" key="FileChooserDialogImpl" timestamp="1598435659174">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state x="707" y="293" key="FileChooserDialogImpl/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598435659174" />
+    <state x="806" y="438" key="Github.ShareDialog" timestamp="1598438362280">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state x="806" y="438" key="Github.ShareDialog/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598438362280" />
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.bottom" timestamp="1596989977892">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.bottom/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989977892" />
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.center" timestamp="1596989977892">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.center/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989977892" />
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.left" timestamp="1596989977892">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.left/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989977892" />
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.right" timestamp="1596989977892">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="790" y="684" width="1399" height="303" key="GridCell.Tab.-1.right/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989977892" />
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom" timestamp="1598438654032">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1814" height="402" key="GridCell.Tab.0.bottom/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1597781284503" />
+    <state width="1812" height="294" key="GridCell.Tab.0.bottom/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598438654032" />
+    <state width="1812" height="294" key="GridCell.Tab.0.center" timestamp="1598438654032">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1814" height="402" key="GridCell.Tab.0.center/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1597781284502" />
+    <state width="1812" height="294" key="GridCell.Tab.0.center/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598438654032" />
+    <state width="1812" height="294" key="GridCell.Tab.0.left" timestamp="1598438654032">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1814" height="402" key="GridCell.Tab.0.left/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1597781284502" />
+    <state width="1812" height="294" key="GridCell.Tab.0.left/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598438654032" />
+    <state width="1812" height="294" key="GridCell.Tab.0.right" timestamp="1598438654032">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state width="1814" height="402" key="GridCell.Tab.0.right/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1597781284503" />
+    <state width="1812" height="294" key="GridCell.Tab.0.right/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598438654032" />
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.bottom" timestamp="1596989972485">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.bottom/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989972485" />
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.center" timestamp="1596989972485">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.center/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989972485" />
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.left" timestamp="1596989972485">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.left/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989972485" />
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.right" timestamp="1596989972485">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="246" y="124" width="1399" height="303" key="GridCell.Tab.1.right/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989972485" />
+    <state x="439" y="275" width="980" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1596989827942">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="439" y="275" width="980" height="633" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596989827942" />
+    <state x="790" y="684" width="1415" height="341" key="dock-window-1" timestamp="1596990279813">
+      <screen x="0" y="0" width="1858" height="1080" />
+    </state>
+    <state x="790" y="684" width="1415" height="341" key="dock-window-1/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596990279813" />
+    <state x="310" y="159" key="new project wizard" timestamp="1598435706458">
+      <screen x="0" y="0" width="1855" height="1080" />
+    </state>
+    <state x="311" y="159" key="new project wizard/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1597347104036" />
+    <state x="310" y="159" key="new project wizard/0.0.1855.1080/-1366.444.1366.768@0.0.1855.1080" timestamp="1598435706458" />
+    <state x="-234" y="525" key="search.everywhere.popup" timestamp="1596969600136">
+      <screen x="-1366" y="523" width="1304" height="768" />
+    </state>
+    <state x="-234" y="525" key="search.everywhere.popup/-1366.523.1304.768/0.0.1858.1080@0.0.1858.1080" timestamp="1596969600136" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
